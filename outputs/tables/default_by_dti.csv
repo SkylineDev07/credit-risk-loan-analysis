@@ -1,0 +1,4 @@
+DTI_Band,Applications,Defaults,Default_Rate_Percent
+High (>=35%),586,209,35.67
+Medium (20%-<35%),2162,450,20.81
+Low (<20%),3252,443,13.62
