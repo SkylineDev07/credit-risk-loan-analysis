@@ -1,0 +1,4 @@
+model,random_state,test_size,training_rows,test_rows,features_used,accuracy,precision,recall,f1_score,roc_auc,confusion_matrix
+decision_tree,42,0.2,4800,1200,15,0.69,0.3362,0.7091,0.4561,0.7489,"[[672, 308], [64, 156]]"
+random_forest,42,0.2,4800,1200,15,0.775,0.4277,0.6727,0.523,0.8187,"[[782, 198], [72, 148]]"
+gradient_boosting,42,0.2,4800,1200,15,0.8458,0.716,0.2636,0.3854,0.8228,"[[957, 23], [162, 58]]"
